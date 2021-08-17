@@ -1,0 +1,4 @@
+.formInformation{
+    display: flex;
+    flex-direction: column;
+}
